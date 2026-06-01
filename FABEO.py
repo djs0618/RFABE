@@ -14,7 +14,7 @@ class FABECPABE(ABEnc):
         self.util = MSP(self.group, verbose)
 
     def setup(self):
-        """生成公钥和主密钥"""
+        # 生成公钥和主密钥
         if debug:
             print('\nSetup算法:\n')
 
