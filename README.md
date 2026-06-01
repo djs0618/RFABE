@@ -36,4 +36,4 @@
 
 ## 下载完整项目
 
-  Release v1.0 - RABE3.zip (271MB) 地址为 https://github.com/djs0618/RABE/releases/tag/v1.0
+  Release 1 - RABE-2.0.zip (271MB) 地址为 https://github.com/djs0618/RABE/releases/tag/1
