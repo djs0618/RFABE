@@ -35,7 +35,7 @@ class FABECPABE(ABEnc):
         return pk, msk
 
     def keygen(self, pk, msk, attr_list, U, b):
-        """生成密钥，b=0或1表示两个不同分支"""
+        # 生成密钥，b=0或1表示两个不同分支
         if debug:
             print('\nKeyGen算法:\n')
 
